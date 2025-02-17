@@ -33,4 +33,4 @@ I'm a passionate **Frontend Developer** who loves building beautiful and easy-to
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olena_zlot)
 
 
-💻 **Let's build something amazing together!** 🚀
+💻 ## **Let's build something amazing together!** 🚀
